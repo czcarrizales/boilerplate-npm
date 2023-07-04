@@ -2,6 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Chazz Carrizales",
 	"description": "This is a series of challenges that will teach me about the back end more.",
+	"keywords": ["freecodecamp", "tutorial", "challenge"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
